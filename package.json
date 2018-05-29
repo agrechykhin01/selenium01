@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/agrechykhin01/selenium01/issues"
   },
-  "homepage": "https://github.com/agrechykhin01/selenium01#readme"
+  "homepage": "https://github.com/agrechykhin01/selenium01#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "webdriver-manager": "^12.0.6"
+  }
 }
